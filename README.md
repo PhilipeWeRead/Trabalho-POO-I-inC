@@ -1,0 +1,1 @@
+In this code, using the STL, we decided to use the set in containers, which is ordered and facilitates the search, and the multiset, which cannot be repeated. The vector therefore, in addition to its ease of implementation, random access and contiguously stored length, is highly flexible. All in C++
